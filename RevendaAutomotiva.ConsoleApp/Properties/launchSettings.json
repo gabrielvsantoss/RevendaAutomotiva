@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RevendaAutomotiva.ConsoleApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
